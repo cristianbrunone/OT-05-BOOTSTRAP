@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.jumbotron {
+    background: url('imgs/queen-banner.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #f39c12;
+    border-color: #e67e22;
+}
+
+.btn-primary:hover {
+    background-color: #e67e22;
+    border-color: #d35400;
+}
+
+main {
+    flex: 1;
+}
+
+.text-gris-oscuro {
+    color: #555; /* Color gris oscuro para subtítulos */
+}
+.text-principal {
+    color: #333; /* Color principal para el texto */
+}
+
+.normal-text {
+    text-shadow: none; /* Elimina cualquier sombra del texto */
+    color: #555; /* Color oscuro para el texto */
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
