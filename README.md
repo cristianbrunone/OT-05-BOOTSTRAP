@@ -4,14 +4,15 @@ Este é um projeto de uma FanPage dedicada ao tecladista Cory Henry, utilizando 
 
 ## Capturas de Tela
 
-### Página Inicial (Home)
-![Página Inicial](screenshots/home.png)
+![Página Inicial](https://github.com/cristianbrunone/OT-05-BOOTSTRAP/blob/main/coryHenry.png)
+
+![Página Inicial Mobile](https://github.com/cristianbrunone/OT-05-BOOTSTRAP/blob/main/coryHenryMobile.png)
 
 ### Página Sobre Cory Henry
-![Página Sobre](screenshots/sobre.png)
+![Página Sobre](https://github.com/cristianbrunone/OT-05-BOOTSTRAP/blob/main/coryHenry2.png)
 
 ### Página de Contato
-![Página de Contato](screenshots/contato.png)
+![Página de Contato](https://github.com/cristianbrunone/OT-05-BOOTSTRAP/blob/main/coryHenryContato.png)
 
 ## Descrição do Projeto
 
